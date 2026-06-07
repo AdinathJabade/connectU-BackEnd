@@ -14,8 +14,8 @@ A comprehensive backend API for ConnectU - a platform that connects students wit
 - [Project Structure](#project-structure)
 - [Authentication & Authorization](#authentication--authorization)
 - [File Upload & Media Management](#file-upload--media-management)
-- [Real-time Communication](#real-time-communication)
 - [Deployment](#deployment)
+- [Real-time Communication](#real-time-communication)
 - [Contributing](#contributing)
 
 ## 🚀 Features
